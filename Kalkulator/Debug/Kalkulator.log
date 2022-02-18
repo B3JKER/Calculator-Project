@@ -1,0 +1,12 @@
+﻿  button.cpp
+  Calculations.cpp
+C:\Kalkulator\Kalkulator\Calculations.cpp(47,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Kalkulator\Kalkulator\Calculations.cpp(59,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Kalkulator\Kalkulator\Calculations.cpp(97,79): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Kalkulator\Kalkulator\Calculations.cpp(119,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Kalkulator\Kalkulator\Calculations.cpp(224,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Kalkulator\Kalkulator\Calculations.cpp(367,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  CalculatorWindow.cpp
+  main.cpp
+  Generowanie kodu...
+  Kalkulator.vcxproj -> C:\Kalkulator\Debug\Kalkulator.exe

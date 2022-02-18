@@ -1,0 +1,6 @@
+﻿  button.cpp
+  Calculations.cpp
+  CalculatorWindow.cpp
+  main.cpp
+CalculatorWindow.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Calculations::resultStringOut(void)" (?resultStringOut@Calculations@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+C:\Users\B3JKER\source\repos\Kalkulator\Release\Kalkulator.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
